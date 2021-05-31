@@ -1,9 +1,9 @@
-title: Microsoft Open Source
+title: SvTre.com LLC Open Source
 email:
-description: Microsoft Open Source
+description: Web Design Logo Mobile App Marketing SEO Smarthome IoT❤️ NO PAIN NO GAIN ✔️Sử dụng cái Bạn có ntn mới quan trọng http://svtre.com http://Kami.VN http://Kome.Top
 
-twitter_username: openatmicrosoft
-github_username: microsoft
+twitter_username: SvTreCom
+github_username: SvTreDev
 
 cdn: https://opensource.azureedge.net
 
@@ -54,12 +54,12 @@ exclude:
 seo:
 
 twitter:
-  username: openatmicrosoft
+  username: SvTreCom
 
 defaults:
   -
     scope:
       path: ""
     values:
-      image: https://opensource.azureedge.net/assets/images/social-card.png
+      image: https://svtre.files.wordpress.com/2021/05/svtrecover.png
       layout: default
